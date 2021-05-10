@@ -43,10 +43,29 @@ What variable(s) are considered to be the features for your model?
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
 
-Compiling, Training, and Evaluating the Model
+### Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
+Attempt 1: 
+* Neurons: 80, 30, 20
+* Layers: 3 Hidden Layers
+* Activation Functions: relu (first hidden layer), sigmoid (second, third, and output layers)
+* Accuracy: 72.58%
 
+Attempt 2 (Increased Hidden Layer):
+* Neurons: 100, 50, 20, 10
+* Layers: 4 Hidden Layers
+* Activation Functions: relu (first hidden layer), sigmoid (second, third, fourth, and output layers)
+* Accuracy: 72.55%
+
+Attempt 3 (Changed Activation Function):
+* Neurons: 100, 50, 20, 10
+* Layers: 4 Hidden Layers
+* Activation Functions: tanh (hidden layers), sigmoid (output layer)
+* Accuracy: 72.62%
+ 
 Were you able to achieve the target model performance?
+I was unable to achieve 75%, however, reached 72.6% after Attempt 3.
 
 What steps did you take to try and increase model performance?
+I started out with 3 hidden layers in Attempt 1. I tried increasing the number of hidden layers from 3 to 4 in Attempt 2. Lastly, in Attempt 3, I changed the activation function for my hidden layers from relu and sigmoid to tanh. 
