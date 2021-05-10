@@ -14,9 +14,10 @@ Using my knowledge of TensorFlow, I designed a neural network, or deep learning 
 <b> Reference: AlphabetSoupCharity.ipynb and AlphabetSoupCharity.h5 </b>
 
 ### Deliverable 3: Optimize the Model
-Using your knowledge of TensorFlow, optimize your model in order to achieve a target predictive accuracy higher than 75%. If you can't achieve an accuracy higher than 75%, you'll need to make at least three attempts to do so.
+Using my knowledge of TensorFlow, I optimized my model in order to achieve a target predictive accuracy higher than 75%. I achieved an accuracy that was not higher than 75%, but very close (72.6%) after three attempts.
 
 <b> Reference: AlphabetSoupCharity_Optimzation.ipynb and AlphabetSoupCharity_Optimzation.h5 </b>
+
 
 ## Results:
 Using bulleted lists and images to support your answers, address the following questions.
