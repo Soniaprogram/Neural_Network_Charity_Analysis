@@ -41,7 +41,7 @@ Using my knowledge of TensorFlow, I optimized my model in order to achieve a tar
 * IS_SUCCESSFUL would be a target for my model since it identifies if a donation was used for a successful organization
 
 <b> What variable(s) are considered to be the features for your model? </b>
-The followeing variables were features for my model:
+The following variables were features for my model:
 * APPLICATION_TYPE
 * AFFILIATION
 * CLASSIFICATION
