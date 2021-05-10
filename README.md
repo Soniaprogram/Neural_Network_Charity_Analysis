@@ -41,6 +41,7 @@ Using my knowledge of TensorFlow, I optimized my model in order to achieve a tar
 * IS_SUCCESSFUL would be a target for my model since it identifies if a donation was used for a successful organization
 
 <b> What variable(s) are considered to be the features for your model? </b>
+
 The following variables were features for my model:
 * APPLICATION_TYPE
 * AFFILIATION
@@ -53,6 +54,7 @@ The following variables were features for my model:
 * ASK_AMT
 
 <b> What variable(s) are neither targets nor features, and should be removed from the input data? </b>
+
 The following variables were neither targets nor features and were dropped:
 * EIN
 * NAME
