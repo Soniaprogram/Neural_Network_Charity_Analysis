@@ -36,16 +36,17 @@ Using my knowledge of TensorFlow, I optimized my model in order to achieve a tar
 ## Results:
 
 #### Data Preprocessing
-What variable(s) are considered the target(s) for your model?
+<b> What variable(s) are considered the target(s) for your model? </b>
 
-What variable(s) are considered to be the features for your model?
+<b> What variable(s) are considered to be the features for your model? </b>
 
-What variable(s) are neither targets nor features, and should be removed from the input data?
+<b> What variable(s) are neither targets nor features, and should be removed from the input data? </b>
 
 
 #### Compiling, Training, and Evaluating the Model
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
+<b> How many neurons, layers, and activation functions did you select for your neural network model, and why? </b>
+
 Attempt 1: 
 * Neurons: 80, 30, 20
 * Layers: 3 Hidden Layers
@@ -64,8 +65,8 @@ Attempt 3 (Changed Activation Function):
 * Activation Functions: tanh (hidden layers), sigmoid (output layer)
 * Accuracy: 72.62%
  
-Were you able to achieve the target model performance?
+<b> Were you able to achieve the target model performance? </b>
 * I was unable to achieve 75%, however, reached 72.6% after Attempt 3.
 
-What steps did you take to try and increase model performance?
+<b> What steps did you take to try and increase model performance? </b>
 * I started out with 3 hidden layers in Attempt 1. I tried increasing the number of hidden layers from 3 to 4 in Attempt 2. Lastly, in Attempt 3, I changed the activation function for my hidden layers from relu and sigmoid to tanh. 
