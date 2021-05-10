@@ -84,3 +84,8 @@ Attempt 3 (Changed Activation Function):
 
 <b> What steps did you take to try and increase model performance? </b>
 * I started out with 3 hidden layers in Attempt 1. I tried increasing the number of hidden layers from 3 to 4 in Attempt 2. Lastly, in Attempt 3, I changed the activation function for my hidden layers from relu and sigmoid to tanh. 
+
+
+## Summary: 
+Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+In summary, Attempt 3 with 4 hidden layers and a tanh activation function for the 4 hidden layers and sigmoid activation function for the outer layer, resulted in the highest accuracy of 72.6%. This did not result in the targeted 75% but was very close. I would recommend acquiring more data so that other variables aside from 'IS_SUCCESSFUL' could provide more accuracy resulting in a better model. There would also be a benefit in using a Random Forest Classifier to better prevent overfitting and evaluating its performance against the current model. 
