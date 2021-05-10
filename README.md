@@ -3,13 +3,13 @@
 The report should contain the following:
 
 ## Overview of the analysis:
-Explain the purpose of this analysis.
+For the non-profit organization Alphabet Soup, I designed a deep learning neural network that will predict if an Alphabet Soup funded organization will be successful based on features provided in the given dataset.
 
 ### Deliverable 1: Preprocessing Data for a Neural Network Model
-Using your knowledge of Pandas and the Scikit-Learn’s StandardScaler(), you’ll need to preprocess the dataset in order to compile, train, and evaluate the neural network model later in Deliverable 2.
+Using my knowledge of Pandas and the Scikit-Learn’s StandardScaler(), I preprocessed the given dataset in order to compile, train, and evaluate the neural network model that will be developed in Deliverable 2.
 
 ### Deliverable 2: Compile, Train, and Evaluate the Model
-Using your knowledge of TensorFlow, you’ll design a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup–funded organization will be successful based on the features in the dataset. You’ll need to think about how many inputs there are before determining the number of neurons and layers in your model. Once you’ve completed that step, you’ll compile, train, and evaluate your binary classification model to calculate the model’s loss and accuracy.
+Using my knowledge of TensorFlow, I designed a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup funded organization will be successful based on the features in the dataset. I was required to think about how many inputs there were before determining the number of neurons and layers in my model. Once you’ve completed that step, you’ll compile, train, and evaluate your binary classification model to calculate the model’s loss and accuracy.
 
 ### Deliverable 3: Optimize the Model
 Using your knowledge of TensorFlow, optimize your model in order to achieve a target predictive accuracy higher than 75%. If you can't achieve an accuracy higher than 75%, you'll need to make at least three attempts to do so.
