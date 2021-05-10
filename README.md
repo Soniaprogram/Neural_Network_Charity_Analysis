@@ -13,19 +13,26 @@ Using my knowledge of TensorFlow, I designed a neural network, or deep learning 
 
 <b> Reference: AlphabetSoupCharity.ipynb and AlphabetSoupCharity.h5 </b>
 
+![img1](https://github.com/Soniaprogram/Neural_Network_Charity_Analysis/blob/main/images/del2model.PNG)
+![img2](https://github.com/Soniaprogram/Neural_Network_Charity_Analysis/blob/main/images/del2evaluate.PNG)
+
+
 ### Deliverable 3: Optimize the Model
 Using my knowledge of TensorFlow, I optimized my model in order to achieve a target predictive accuracy higher than 75%. I achieved an accuracy that was not higher than 75%, but very close (72.6%) after three attempts.
 
 <b> Reference: AlphabetSoupCharity_Optimzation.ipynb and AlphabetSoupCharity_Optimzation.h5 </b>
 
 #### Attempt 1:
-
+![img3](https://github.com/Soniaprogram/Neural_Network_Charity_Analysis/blob/main/images/del3att1.PNG)
+![img4](https://github.com/Soniaprogram/Neural_Network_Charity_Analysis/blob/main/images/del3att1eval.PNG)
 
 #### Attempt 2:
-
+![img5](https://github.com/Soniaprogram/Neural_Network_Charity_Analysis/blob/main/images/del3att2.PNG)
+![img6](https://github.com/Soniaprogram/Neural_Network_Charity_Analysis/blob/main/images/del3att2eval.PNG)
 
 #### Attempt 3:
-
+![img7](https://github.com/Soniaprogram/Neural_Network_Charity_Analysis/blob/main/images/del3att3.PNG)
+![img8](https://github.com/Soniaprogram/Neural_Network_Charity_Analysis/blob/main/images/del3att3eval.PNG)
 
 ## Results:
 
