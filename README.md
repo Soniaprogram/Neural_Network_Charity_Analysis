@@ -2,11 +2,13 @@
 
 The report should contain the following:
 
-Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis:
+Explain the purpose of this analysis.
 
-Results: Using bulleted lists and images to support your answers, address the following questions.
+## Results:
+Using bulleted lists and images to support your answers, address the following questions.
 
-Data Preprocessing
+## Data Preprocessing
 What variable(s) are considered the target(s) for your model?
 What variable(s) are considered to be the features for your model?
 What variable(s) are neither targets nor features, and should be removed from the input data?
